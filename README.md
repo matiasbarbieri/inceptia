@@ -1,6 +1,10 @@
 # Python Backend Challenge
 Construcción de un bot para la toma de pedidos.
 
+## Logging
+Este proyecto incluye una funcionalidad de logging para registrar eventos importantes durante la ejecución, facilitando la depuración y el seguimiento del funcionamiento del bot. Los logs están organizados por fecha y se guardan en una carpeta logs en el directorio raíz del proyecto.
+
+
 ## Ejecutar Tests
 
 #### Para ejecutar las pruebas de la función is_hot_in_pehuajo, utiliza el siguiente comando desde la raíz del proyecto:
@@ -27,6 +31,6 @@ El proyecto está estructurado de la siguiente manera:
 
 
 
-Contacto
+## Contacto
 matias.nbarbieri@gmail.com
 
