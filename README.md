@@ -1,4 +1,4 @@
-# Python Backend Challenge para Heladerías Frozen SRL
+# Python Backend Challenge
 Construcción de un bot para la toma de pedidos.
 
 ## Ejecutar Tests
