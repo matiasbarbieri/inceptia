@@ -1,0 +1,22 @@
+--------------------------------------------------
+Start execution: 2024-02-26 10:17:22
+
+Procesando Test: 'Chocolate, 6, 4'. Resultado: False
+Intento 4: Demasiados intentos para Chocolate.
+Procesando Test: 'Chocolate, 2, 1'. Resultado: True
+Procesando Test: 'Limon, 1, 1'. Resultado: False
+
+End execution: 2024-02-26 10:17:22
+--------------------------------------------------
+
+
+--------------------------------------------------
+Start execution: 2024-02-26 10:17:55
+
+Temperatura actual en Pehuajó: 19.56 °C
+Hace calor en Pehuajó (mayor a 28°C): False
+
+End execution: 2024-02-26 10:17:56
+--------------------------------------------------
+
+
