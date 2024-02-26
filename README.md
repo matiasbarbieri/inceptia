@@ -26,6 +26,8 @@ El proyecto está estructurado de la siguiente manera:
   * `test_weather_api.py`
   * `test_inventory.py`
 * `utils/`: Utilidades generales.
+  * `exceptions.py`
+  * `logging_utils.py`
 * `requirements.txt/`: Dependencias del proyecto.
 * `env/`: Este proyecto utiliza variables de entorno para manejar configuraciones sensibles como claves API. Actualmente están visibles porque es un Challenge.
 
